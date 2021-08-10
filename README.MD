@@ -52,11 +52,8 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <br>
 <code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
 <code><a href = "https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
-<code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
-<br>
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter notebook"></code>
 <br> 
 
