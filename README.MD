@@ -31,7 +31,6 @@ During the final days of my graduation, I found out that Industrial Engineering 
 ### What I do when not coding:
 * I love cooking food ( GREAT FOOD)
 * Some times a gamer
-* Study some more (ik ik.. im a very curious man)
 * Play eletric guitar 
 
 
