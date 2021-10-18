@@ -24,13 +24,9 @@ I'm Lucas Angulski! I'm a graduated **Industrial Engineer** , currently learning
 * Learning Pygame.
 * 🔜
 
-### 🌱 Somethings about myself:
-During the final days of my graduation, I found out that Industrial Engineering was not what I expected, instead I was much more of a computer guy myself. This year I decided to change the path of my career by investing my time focusing on feeding more knowledge:books: to myself. And that's how I joined the dev world, I fell in love with coding, it's challenging, it takes a lot of practice to master and most importantly IT IS FUN!!!
-
 
 ### What I do when not coding:
 * I love cooking food ( GREAT FOOD)
-* Some times a gamer
 * Play eletric guitar 
 
 
