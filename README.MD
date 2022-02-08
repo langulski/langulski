@@ -8,15 +8,10 @@ I'm Lucas Angulski! I'm a graduated **Industrial Engineer** , currently working 
 <br>
 <img src="https://media.giphy.com/media/Xg3ySobhfo9uvYm2YA/giphy.gif" width="40"> <em><b>Feel free to contact me,</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-LucasAngulski-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasangulski/)
-[![Instagram](https://img.shields.io/badge/-Lucas_angulski-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/lucasangulski/)
-[![Gmail](https://img.shields.io/badge/-lucas.angulski-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucas.angulski@gmail.com)
-
 
 
 <!-- Working GIF -->
-<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" alt="dev_object" align="right" width="250" height="200" />
+<img src="https://media1.giphy.com/media/1hVPMOjQSGIyhvIek1/giphy.gif" alt="dev_object" align="right" width="250" height="200" />
 
 ### 💼  Things that I'm currently working on: 
 * Learning ML models
@@ -52,11 +47,12 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 
 </p>
-
 <h4 align="center"> Thanks! </h4>
 
-<!-- Credit -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs. 
+<div> 
+  <a href="https://www.linkedin.com/in/lucasangulski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/lucasangulski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucas.angulski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
 
-
+![Snake](https://user-images.githubusercontent.com/85833899/153075099-dac83769-5ff1-4e75-b28d-7acf5bbaeb3f.svg)
