@@ -14,8 +14,8 @@ I'm Lucas Angulski! I'm a graduated **Industrial Engineer** , currently working 
 <img src="https://media1.giphy.com/media/1hVPMOjQSGIyhvIek1/giphy.gif" alt="dev_object" align="right" width="250" height="200" />
 
 ### 💼  Things that I'm currently working on: 
-* Learning ML models
-* Learning Fullstack Development
+* Learning Data Engineering
+* Airflow dags
 * 🔜
 
 
