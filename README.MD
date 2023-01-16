@@ -55,4 +55,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
   <a href = "mailto:lucas.angulski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
-![snake animation](https://github.com/langulski/langulski/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/langulski/langulski/blob/output/github-snake-dark.svg)
