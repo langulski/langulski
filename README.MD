@@ -4,9 +4,9 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Lucas Angulski! I'm a graduated **Industrial Engineer** , currently working as a Data Analyst and self learning Fullstack dev. I'm a very curious person so I try to code a bit of everything, for exemple Games!. Do :star2: my repository if you find my project interesting :blush:</em>
+I'm Lucas Angulski! I'm a graduated **Industrial Engineer**, currently working as a Data Analyst and self learning Fullstack dev. I'm a very curious person so I try to code a bit of everything, for exemple Games!. Do :star2: my repository if you find my project interesting :blush:</em>
 <br>
-<img src="https://media.giphy.com/media/Xg3ySobhfo9uvYm2YA/giphy.gif" width="40"> <em><b>Feel free to contact me,</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+ <em><b>Feel free to contact me,</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 
 
@@ -15,7 +15,7 @@ I'm Lucas Angulski! I'm a graduated **Industrial Engineer** , currently working 
 
 ### 💼  Things that I'm currently working on: 
 * Learning Data Engineering
-* Airflow dags
+* AWS Solutions
 * 🔜
 
 
